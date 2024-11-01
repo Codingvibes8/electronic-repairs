@@ -1,7 +1,7 @@
 
 import React from "react";
 
-export default async function RSLayout({
+export default async function ElecLayout({
                                            children,
                                        }: {
     children: React.ReactNode
